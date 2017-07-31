@@ -6,11 +6,11 @@ Requirements:
 
 Unity v5.6.1 or later
 
-iOS 11
+Requires iOS 11 or later
 
-Xcode beta 9 with latest iOS SDK that contains ARKit Framework
+Requires XCode 9 beta or later, with iOS SDK that includes ARKit Framework
 
-iOS device that supports ARKit
+Requires iOS device that supports ARKit (iPhone 6S or later, iPad (2017) or later)
 
 How to use this code drop:
 
