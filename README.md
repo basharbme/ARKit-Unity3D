@@ -1,5 +1,7 @@
 # ARKit Plugin for Unity
-![arkit unity](https://user-images.githubusercontent.com/18353476/28800970-4162bc50-7604-11e7-8f4c-8caa9a90e6b3.png)
+<p align="center">
+  <img alt="arkit unity" src="https://user-images.githubusercontent.com/18353476/28800970-4162bc50-7604-11e7-8f4c-8caa9a90e6b3.png">
+</p>
 
 ARKit Plugin is a Unity project that you can load up into any Unity version that is later than v5.6.1f1. The Unity
 project contains the plugin sources and some example scenes and components that you may use in your own projects.
@@ -16,5 +18,15 @@ Requires XCode 9 beta or later, with iOS SDK that includes ARKit Framework
 
 Requires iOS device that supports ARKit (iPhone 6S or later, iPad (2017) or later)
 
+# ARKit in XCode 9
+![arkit-101](https://user-images.githubusercontent.com/18353476/29243498-3e3332ee-7f55-11e7-9158-40c72da8a469.jpg)
+![arkit2](https://user-images.githubusercontent.com/18353476/29243499-42181adc-7f55-11e7-8577-08fd70ebf5c9.png)
+
+# iOS Build Settings in Unity
+![switch_platform-ios](https://user-images.githubusercontent.com/18353476/29243508-5f8b300e-7f55-11e7-9a6e-d03036203258.png)
+
 # ARKit ARBallz Scene Example
-![ar1](https://user-images.githubusercontent.com/18353476/28798403-45e175ce-75f9-11e7-9127-0a75d00a3662.PNG)
+<p align="center">
+  <img alt="ar1" src="https://user-images.githubusercontent.com/18353476/28798403-45e175ce-75f9-11e7-9127-0a75d00a3662.PNG">
+</p>
+
