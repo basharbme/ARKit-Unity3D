@@ -10,13 +10,13 @@ The plugin is open sourced and is released under the MIT license.
 
 Requirements:
 
-Unity v5.6.1 or later
+[Unity](https://unity3d.com/) v5.6.1 or later
 
 Requires iOS 11 or later
 
-Requires XCode 9 beta or later, with iOS SDK that includes ARKit Framework
+Requires [XCode 9 beta](https://developer.apple.com/xcode/) or later, with iOS SDK that includes ARKit Framework
 
-Requires iOS device that supports ARKit (iPhone 6S or later, iPad (2017) or later)
+Requires iOS device that supports [ARKit](https://developer.apple.com/arkit/) (iPhone 6S or later, iPad (2017) or later)
 
 # ARKit in XCode 9
 ![arkit-101](https://user-images.githubusercontent.com/18353476/29243498-3e3332ee-7f55-11e7-9158-40c72da8a469.jpg)
@@ -30,3 +30,20 @@ Requires iOS device that supports ARKit (iPhone 6S or later, iPad (2017) or late
   <img alt="ar1" src="https://user-images.githubusercontent.com/18353476/28798403-45e175ce-75f9-11e7-9127-0a75d00a3662.PNG">
 </p>
 
+# 3D Models for AR Projects
+A few screenshots of the 12 [3D models](https://www.turbosquid.com/) (located in the 3D Models folder), which you can use in many different AR projects. All 3D models are in the required .dae file format AKA [Collada](https://www.khronos.org/collada/). 
+<p align="center">
+  <img alt="magazine" src="https://user-images.githubusercontent.com/18353476/29536340-416eb70c-8672-11e7-8065-9e132e08361d.PNG">
+</p>
+
+<p align="center">
+  <img alt="chess" src="https://user-images.githubusercontent.com/18353476/29536342-43dd7d16-8672-11e7-89a7-56d9cff063d9.PNG">
+</p>
+
+<p align="center">
+  <img alt="robot" src="https://user-images.githubusercontent.com/18353476/29536349-4c62abbe-8672-11e7-9e32-5a88a465f949.PNG">
+</p>
+
+<p align="center">
+  <img alt="house" src="https://user-images.githubusercontent.com/18353476/29536354-4f02eef6-8672-11e7-94a7-40fa306af499.PNG">
+</p>
