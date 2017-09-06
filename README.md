@@ -8,15 +8,19 @@ project contains the plugin sources and some example scenes and components that 
 
 The plugin is open sourced and is released under the MIT license.
 
+[Understanding Augmented Reality in ARKit](https://developer.apple.com/documentation/arkit/understanding_augmented_reality)
+
 Requirements:
 
-[Unity](https://unity3d.com/) v5.6.1 or later
+[Unity](https://unity3d.com/) v5.6.1f1 or later.
 
-Requires iOS 11 or later
+[iOS 11](https://www.apple.com/ios/ios-11-preview/) or later.
 
-Requires [XCode 9 beta](https://developer.apple.com/xcode/) or later, with iOS SDK that includes ARKit Framework
+macOS Sierra 10.12.4 or later.
 
-Requires iOS device that supports [ARKit](https://developer.apple.com/arkit/) (iPhone 6S or later, iPad (2017) or later)
+[Xcode 9](https://developer.apple.com/xcode/)Beta 5 or later, with iOS SDK that includes ARKit Framework.
+
+iOS device(A9 or later processor)that supports [ARKit](https://developer.apple.com/arkit/) (iPhone 6S or later, iPad (2017) or later.
 
 # ARKit in XCode 9
 ![arkit-101](https://user-images.githubusercontent.com/18353476/29243498-3e3332ee-7f55-11e7-9158-40c72da8a469.jpg)
