@@ -18,7 +18,7 @@ Requirements:
 
 macOS Sierra 10.12.4 or later.
 
-[Xcode 9](https://developer.apple.com/xcode/)Beta 5 or later, with iOS SDK that includes ARKit Framework.
+[Xcode 9](https://developer.apple.com/xcode/) Beta 5 or later, with iOS SDK that includes ARKit Framework.
 
 iOS device(A9 or later processor)that supports [ARKit](https://developer.apple.com/arkit/) (iPhone 6S or later, iPad (2017) or later.
 
