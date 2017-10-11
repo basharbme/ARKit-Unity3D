@@ -35,7 +35,11 @@ iOS device(A9 or later processor)that supports [ARKit](https://developer.apple.c
 </p>
 
 # 3D Models for AR Projects
-A few screenshots of the 12 [3D models](https://www.turbosquid.com/) (located in the 3D Models folder), which you can use in many different AR projects. All 3D models are in the required .dae file format AKA [Collada](https://www.khronos.org/collada/). 
+A few screenshots of the 26 [3D models](https://www.turbosquid.com/) (located in the 3D Models folder), which you can use in many different AR projects. All 3D models are in the required .dae file format AKA [Collada](https://www.khronos.org/collada/). 
+
+<p align="center">
+  <img alt="tennis ball" src="https://user-images.githubusercontent.com/18353476/31447274-7123756c-ae56-11e7-8dd3-47f7773ff4af.PNG">
+</p>
 
 <p align="center">
   <img alt="spaceship" src="https://user-images.githubusercontent.com/18353476/30507770-e6989d86-9a3d-11e7-86d1-ad18f99a28d9.PNG">
