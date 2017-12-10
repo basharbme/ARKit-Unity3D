@@ -10,6 +10,16 @@ The plugin is open sourced and is released under the MIT license.
 
 [Understanding Augmented Reality in ARKit](https://developer.apple.com/documentation/arkit/understanding_augmented_reality)
 
+[Building Your First AR Experience](https://developer.apple.com/documentation/arkit/building_your_first_ar_experience)
+
+[Handling 3D Interaction and UI Controls in Augmented Reality](https://developer.apple.com/documentation/arkit/handling_3d_interaction_and_ui_controls_in_augmented_reality)
+
+[Creating Face-Based AR Experiences using the TrueDepth camera on iPhone X](https://developer.apple.com/documentation/arkit/creating_face_based_ar_experiences)
+
+[Interactive Content with ARKit(with Sample Code)](https://developer.apple.com/library/content/samplecode/InteractiveContent/Introduction/Intro.html)
+
+[Apple's ARKit Developer Forums](https://forums.developer.apple.com/community/graphics-and-games/arkit)
+
 Requirements:
 
 [Unity](https://unity3d.com/) v5.6.1f1 or later.
