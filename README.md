@@ -1,4 +1,4 @@
-# ARKit Plugin for Unity
+# ARKit for Unity
 <p align="center">
   <img alt="arkit unity" src="https://user-images.githubusercontent.com/18353476/28800970-4162bc50-7604-11e7-8f4c-8caa9a90e6b3.png">
 </p>
