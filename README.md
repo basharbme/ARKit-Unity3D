@@ -8,6 +8,8 @@ project contains the plugin sources and some example scenes and components that 
 
 The plugin is open sourced and is released under the MIT license.
 
+[Unity for VR and AR](https://unity3d.com/unity/features/multiplatform/vr-ar)
+
 [Developing for ARKit 1.5 (Spring 2018 Update) using Unity ARKit](https://blogs.unity3d.com/2018/02/16/developing-for-arkit-1-5-update-using-unity-arkit-plugin/)
 
 [Understanding Augmented Reality in ARKit](https://developer.apple.com/documentation/arkit/understanding_augmented_reality)
