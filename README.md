@@ -16,6 +16,10 @@ The plugin is open sourced and is released under the MIT license.
 
 [Building Your First AR Experience](https://developer.apple.com/documentation/arkit/building_your_first_ar_experience)
 
+[Using Vision/Core ML in Real Time with ARKit](https://developer.apple.com/documentation/arkit/using_vision_in_real_time_with_arkit)
+
+[Creating an Immersive AR Experience with Audio](https://developer.apple.com/documentation/arkit/creating_an_immersive_ar_experience_with_audio)
+
 [Handling 3D Interaction and UI Controls in Augmented Reality](https://developer.apple.com/documentation/arkit/handling_3d_interaction_and_ui_controls_in_augmented_reality)
 
 [Creating Face-Based AR Experiences using the TrueDepth camera on iPhone X](https://developer.apple.com/documentation/arkit/creating_face_based_ar_experiences)
@@ -34,7 +38,7 @@ macOS 10.13 (High Sierra) or later.
 
 [Xcode 9.3](https://developer.apple.com/xcode/) Beta or later, with iOS SDK that includes ARKit Framework.
 
-iOS device(A9 or later processor)that supports [ARKit](https://developer.apple.com/arkit/) (iPhone 6S or later, iPad (2017) or later.
+iOS device(A9 or later processor)that supports [ARKit](https://developer.apple.com/arkit/) (iPhone 6S or later, iPad (2017) or later. The iPhone 8 or X with the 'A11' processor provides the best performance.
 
 # ARKit in XCode 9
 ![arkit-101](https://user-images.githubusercontent.com/18353476/29243498-3e3332ee-7f55-11e7-9158-40c72da8a469.jpg)
