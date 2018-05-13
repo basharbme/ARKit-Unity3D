@@ -14,6 +14,8 @@ The plugin is open sourced and is released under the MIT license.
 
 [Understanding Augmented Reality in ARKit](https://developer.apple.com/documentation/arkit/understanding_augmented_reality)
 
+[iOS Human Interface Guidelines for ARKit](https://developer.apple.com/ios/human-interface-guidelines/technologies/augmented-reality/)
+
 [Building Your First AR Experience](https://developer.apple.com/documentation/arkit/building_your_first_ar_experience)
 
 [Using Vision/Core ML in Real Time with ARKit](https://developer.apple.com/documentation/arkit/using_vision_in_real_time_with_arkit)
