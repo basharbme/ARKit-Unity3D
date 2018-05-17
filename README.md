@@ -1,10 +1,8 @@
 # ARKit for Unity
-<p align="center">
-  <img alt="arkit unity" src="https://user-images.githubusercontent.com/18353476/28800970-4162bc50-7604-11e7-8f4c-8caa9a90e6b3.png">
-</p>
+![arunity](https://user-images.githubusercontent.com/18353476/40161884-f26baf48-5966-11e8-876c-4c959214bd8e.jpeg)
 
-ARKit Plugin is a Unity project that you can load up into any Unity version that is later than v5.6.1f1. The Unity
-project contains the plugin sources and some example scenes and components that you may use in your own projects.
+
+ARKit Plugin is a Unity project that you can load up into Unity 2017.1 or later. The Unity project contains the plugin sources and some example scenes and components that you may use in your own projects.
 
 The plugin is open sourced and is released under the MIT license.
 
