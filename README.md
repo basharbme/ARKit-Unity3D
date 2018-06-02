@@ -32,6 +32,8 @@ Requirements:
 
 [Unity](https://unity3d.com/) v2017.1 or later.
 
+[Visual Studio for Mac](https://www.visualstudio.com/vs/mac/)
+
 [iOS 11.3](https://www.apple.com/ios/ios-11-preview/) or later.
 
 macOS 10.13 (High Sierra) or later.
