@@ -8,6 +8,8 @@ The plugin is open sourced and is released under the MIT license.
 
 [Get Ready for ARKit 2](https://developer.apple.com/arkit/)
 
+[SwiftShot: Creating a Game for Augmented Reality in ARKit 2](https://developer.apple.com/documentation/arkit/swiftshot_creating_a_game_for_augmented_reality)
+
 [Xcode 10 Beta](https://developer.apple.com/xcode/)
 
 [iOS 12 Preview](https://www.apple.com/ios/ios-12-preview/)
