@@ -6,6 +6,12 @@ ARKit Plugin is a Unity project that you can load up into Unity 2017.1 or later.
 
 The plugin is open sourced and is released under the MIT license.
 
+[Get Ready for ARKit 2](https://developer.apple.com/arkit/)
+
+[Xcode 10 Beta](https://developer.apple.com/xcode/)
+
+[iOS 12 Preview](https://www.apple.com/ios/ios-12-preview/)
+
 [Unity for VR and AR](https://unity3d.com/unity/features/multiplatform/vr-ar)
 
 [Developing for ARKit 1.5 (Spring 2018 Update) using Unity ARKit](https://blogs.unity3d.com/2018/02/16/developing-for-arkit-1-5-update-using-unity-arkit-plugin/)
