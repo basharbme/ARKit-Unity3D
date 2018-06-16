@@ -18,6 +18,10 @@ The plugin is open sourced and is released under the MIT license.
 
 [Unity for VR and AR](https://unity3d.com/unity/features/multiplatform/vr-ar)
 
+[Displaying an AR Experience with Metal](https://developer.apple.com/documentation/arkit/displaying_an_ar_experience_with_metal?language=objc)
+
+[Understanding World Tracking in ARKit](https://developer.apple.com/documentation/arkit/understanding_world_tracking_in_arkit?language=objc)
+
 [Developing for ARKit 1.5 (Spring 2018 Update) using Unity ARKit](https://blogs.unity3d.com/2018/02/16/developing-for-arkit-1-5-update-using-unity-arkit-plugin/)
 
 [Understanding Augmented Reality in ARKit](https://developer.apple.com/documentation/arkit/understanding_augmented_reality)
