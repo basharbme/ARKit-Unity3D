@@ -16,6 +16,8 @@ The plugin is open sourced and is released under the MIT license.
 
 [ARWorldMap Beta](https://developer.apple.com/documentation/arkit/arworldmap?language=objc)
 
+[ARImageTracking](https://developer.apple.com/documentation/arkit/arimagetrackingconfiguration)
+
 [Unity for VR and AR](https://unity3d.com/unity/features/multiplatform/vr-ar)
 
 [Displaying an AR Experience with Metal](https://developer.apple.com/documentation/arkit/displaying_an_ar_experience_with_metal?language=objc)
