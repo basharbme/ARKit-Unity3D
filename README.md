@@ -18,6 +18,8 @@ The plugin is open sourced and is released under the MIT license.
 
 [ARImageTracking](https://developer.apple.com/documentation/arkit/arimagetrackingconfiguration)
 
+[USDZ](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html) is a new AR video file format in iOS 12
+
 [Unity for VR and AR](https://unity3d.com/unity/features/multiplatform/vr-ar)
 
 [Displaying an AR Experience with Metal](https://developer.apple.com/documentation/arkit/displaying_an_ar_experience_with_metal?language=objc)
