@@ -50,7 +50,7 @@ The plugin is open sourced and is released under the MIT license.
 
 Requirements:
 
-[Unity](https://unity3d.com/) v2017.1 or later.
+[Unity](https://unity3d.com/) v2017.4 or later.
 
 [iOS 11.3](https://www.apple.com/ios/ios-11-preview/) or later.
 
