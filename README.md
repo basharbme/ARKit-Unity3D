@@ -14,7 +14,7 @@ The plugin is open sourced and is released under the MIT license.
 
 [iOS 12 Preview](https://www.apple.com/ios/ios-12-preview/)
 
-[ARWorldMap Beta](https://developer.apple.com/documentation/arkit/arworldmap?language=objc)
+[ARWorldMap](https://developer.apple.com/documentation/arkit/arworldmap)
 
 [ARImageTracking](https://developer.apple.com/documentation/arkit/arimagetrackingconfiguration)
 
@@ -33,8 +33,6 @@ The plugin is open sourced and is released under the MIT license.
 [iOS Human Interface Guidelines for ARKit](https://developer.apple.com/ios/human-interface-guidelines/technologies/augmented-reality/)
 
 [Building Your First AR Experience](https://developer.apple.com/documentation/arkit/building_your_first_ar_experience)
-
-[ARKit Project Samples using Xamarin](https://developer.xamarin.com/samples/ios/iOS11/)
 
 [Interactive Content with ARKit(with Sample Code)](https://developer.apple.com/library/content/samplecode/InteractiveContent/Introduction/Intro.html)
 
@@ -56,7 +54,7 @@ Requirements:
 
 macOS 10.13 (High Sierra) or later.
 
-[Xcode 9.3](https://developer.apple.com/xcode/) Beta or later, with iOS SDK that includes ARKit Framework.
+[Xcode 9.3](https://developer.apple.com/xcode/) or later, with iOS SDK that includes ARKit Framework.
 
 iOS device(A9 or later processor)that supports [ARKit](https://developer.apple.com/arkit/) (iPhone 6S or later, iPad (2017) or later. The iPhone 8 or X with the 'A11' processor provides the best performance.
 
