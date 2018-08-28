@@ -44,6 +44,8 @@ The plugin is open sourced and is released under the MIT license.
 
 [Creating Face-Based AR Experiences using the TrueDepth camera on iPhone X](https://developer.apple.com/documentation/arkit/creating_face_based_ar_experiences)
 
+[MoltenVK](https://github.com/KhronosGroup/MoltenVK/tree/8d9ee9b5184ab2df1f339d8413475b8168b868b3) is an implementation of the high-performance, industry-standard Vulkan graphics and compute API, that runs on Apple's Metal graphics framework, bringing Vulkan to iOS and macOS.
+
 [Apple's ARKit Developer Forums](https://forums.developer.apple.com/community/graphics-and-games/arkit)
 
 Requirements:
