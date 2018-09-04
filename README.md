@@ -67,11 +67,6 @@ iOS device(A9 or later processor)that supports [ARKit](https://developer.apple.c
 # iOS Build Settings in Unity
 ![switch_platform-ios](https://user-images.githubusercontent.com/18353476/29243508-5f8b300e-7f55-11e7-9a6e-d03036203258.png)
 
-# ARKit ARBallz Scene Example
-<p align="center">
-  <img alt="ar1" src="https://user-images.githubusercontent.com/18353476/28798403-45e175ce-75f9-11e7-9127-0a75d00a3662.PNG">
-</p>
-
 # 3D Models for AR Projects
 A few screenshots of the 26 [3D models](https://www.turbosquid.com/) (located in the 3D Models folder), which you can use in many different AR projects. All 3D models are in the required .dae file format AKA [Collada](https://www.khronos.org/collada/). 
 
