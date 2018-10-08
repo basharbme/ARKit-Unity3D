@@ -50,6 +50,8 @@ The plugin is open sourced and is released under the MIT license.
 
 [Apple's ARKit Developer Forums](https://forums.developer.apple.com/community/graphics-and-games/arkit)
 
+[Unity Handheld AR Forum](https://forum.unity.com/forums/handheld-ar.159/)
+
 Requirements:
 
 [Unity](https://unity3d.com/) v2017.4 or later.
