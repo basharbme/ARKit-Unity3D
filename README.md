@@ -93,7 +93,3 @@ A few screenshots of the 26 [3D models](https://www.turbosquid.com/) (located in
 <p align="center">
   <img alt="robot" src="https://user-images.githubusercontent.com/18353476/29536349-4c62abbe-8672-11e7-9e32-5a88a465f949.PNG">
 </p>
-
-<p align="center">
-  <img alt="house" src="https://user-images.githubusercontent.com/18353476/29536354-4f02eef6-8672-11e7-94a7-40fa306af499.PNG">
-</p>
